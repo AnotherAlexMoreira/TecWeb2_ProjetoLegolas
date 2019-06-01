@@ -1,0 +1,22 @@
+#container-banner{
+    margin-top: 2em;
+    margin-bottom: 5em;
+
+}
+
+#container-form{
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+#form-cadastrar-arma{
+    margin: 5em;
+    padding: 0.5em;
+}
+
+.icones-armas{
+    position:relative;
+    margin-left: 7em;
+    margin-right: 7em;
+    margin-bottom:  2em;
+}
